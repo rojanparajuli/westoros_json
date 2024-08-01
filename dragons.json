@@ -1,0 +1,71 @@
+{
+    "dragons": [
+      {
+        "rider": "Aegon I Targaryen's Dragons",
+        "dragons": [
+          {
+            "name": "Balerion the Black Dread",
+            "description": "Balerion the Black Dread was Aegon I Targaryen's primary dragon and one of the largest and most fearsome dragons ever to exist. Known for his immense size and terrifying flame, Balerion played a crucial role in Aegon's Conquest. His firepower was instrumental in battles such as the Field of Fire and the destruction of Harrenhal.",
+            "image": "assets/aegon1/baleriyon.jpg"
+          }
+        ]
+      },
+      {
+        "rider": "Aenys I Targaryen's Dragon",
+        "dragon": {
+          "name": "Quicksilver",
+          "description": "Quicksilver was the dragon of King Aenys I Targaryen. Noted for his speed and agility, Quicksilver was smaller and less fearsome compared to the dragons of Aegon I. Despite his lesser size, Quicksilver played a significant role in Aenys's reign, particularly in ceremonial events and as a symbol of the Targaryen power. His dragonrider's relationship with Quicksilver was an important aspect of his kingship, reflecting the Targaryen tradition of bonding with dragons.",
+          "image": "assets/aenys1/quicksilver.jpg"
+        }
+      },
+      {
+        "rider": "Jaehaerys I Targaryen's Dragon",
+        "dragon": {
+          "name": "Vermithor the Bronze Fury",
+          "description": "Vermithor was the dragon of King Jaehaerys I Targaryen. Known as the Bronze Fury, Vermithor was a large and powerful dragon with bronze-colored scales. Vermithor was a symbol of Jaehaerys’s rule and played a significant role in his reign, often appearing at key events and ceremonies. The dragon’s strength and majesty were a testament to the power and stability that Jaehaerys sought to bring to the Seven Kingdoms.",
+          "image": "assets/Jaehaerys I Targaryen/Vermithor.jpg"
+        }
+      },
+      {
+        "rider": "Rhaenyra Targaryen's Dragon",
+        "dragon": {
+          "name": "Syrax",
+          "description": "Syrax was Rhaenyra Targaryen's dragon and one of the most important dragons during the Dance of the Dragons. Known for her distinctive golden scales and powerful presence, Syrax was a symbol of Rhaenyra's claim and her formidable strength. The dragon played a significant role in the civil war, participating in key battles and serving as a crucial asset to Rhaenyra's campaign. Syrax's fierce loyalty and combat prowess made her a notable figure in the Targaryen conflict and a key component of Rhaenyra's struggle for the throne.",
+          "image": "assets/rhaenrya targaryen/syrax.jpeg"
+        }
+      },
+      {
+        "rider": "Aegon II Targaryen's Dragon",
+        "dragon": {
+          "name": "Sunfyre",
+          "description": "Sunfyre was the dragon of King Aegon II Targaryen and one of the most fearsome dragons of the time. Known for his striking golden scales and powerful presence, Sunfyre played a crucial role in Aegon II's efforts to secure his claim to the Iron Throne. The dragon was a symbol of Aegon's authority and was instrumental in several key battles of the Dance of the Dragons. Despite the dragon's impressive capabilities, Aegon II's reign was ultimately marked by brutality and conflict, reflecting the tumultuous nature of his rule.",
+          "image": "assets/aegon2/sunfyre.jpg"
+        }
+      },
+      {
+        "rider": "Aegon III Targaryen's Dragon",
+        "dragon": {
+          "name": "Stormcloud",
+          "description": "Stormcloud was the dragon of King Aegon III Targaryen. Known for his distinctive dark scales and stormy temperament, Stormcloud was a symbol of the Targaryen legacy during Aegon's reign. Although not as prominent or influential as some of the dragons of earlier Targaryen rulers, Stormcloud represented the enduring connection between the Targaryens and their dragons. The dragon's presence was a poignant reminder of the fading but still significant power of the Targaryen dynasty.",
+          "image": "assets/aegon3/commission_work___storm_cloud_dragon_by_z_luanxeko_z_df57spb-fullview.jpg"
+        }
+      },
+      {
+        "rider": "Daeron I Targaryen's Dragon",
+        "dragon": {
+          "name": "Tessarion",
+          "description": "Tessarion, known as the Blue Queen, was the dragon ridden by Daeron I Targaryen. Distinguished by her cobalt-blue scales and fiery breath, Tessarion was a formidable and majestic dragon. She played a significant role in Daeron's campaign to conquer Dorne, providing a considerable advantage in battles with her aerial prowess and destructive capabilities. Tessarion's presence underscored Daeron's military strength and his connection to the legendary power of the Targaryen dragons.",
+          "image": "assets/daeron1/tessarion-the-blue-queen-who-ist-next-v0-liror9xdypyc1.jpg"
+        }
+      },
+      {
+        "rider": "Baelor I Targaryen's Dragon",
+        "dragon": {
+          "name": "Vaelaros",
+          "description": "Vaelaros was the dragon associated with Baelor I Targaryen. Unlike many other Targaryen dragons, Vaelaros was not prominently featured in battles or conquests, reflecting Baelor's peaceful and pious reign. Vaelaros was known for his calm demeanor and was often seen as a symbol of the serene and spiritual aspects of Baelor's rule. The dragon's presence underscored the Targaryen tradition while aligning with Baelor's vision of a kingdom guided by faith and moral integrity.",
+          "image": "assets/belor1/main-qimg-e2cf1a07af80c1ab414ab0af6555c644-lq.jpeg"
+        }
+      }
+    ]
+  }
+  
