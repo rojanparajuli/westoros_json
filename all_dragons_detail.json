@@ -1,0 +1,167 @@
+{
+    "Dragons": [
+      {
+        "name": "Balerion",
+        "image": "URL_to_Balerion_image",
+        "riders": ["Aegon I Targaryen", "Maegor I Targaryen", "Viserys I Targaryen"],
+        "description": "Known as the Black Dread, Balerion was the largest and most powerful of the Targaryen dragons. He was used by Aegon the Conqueror to unite the Seven Kingdoms. Balerion's fire was hot enough to melt stone, and his wings were said to be large enough to blot out the sun."
+      },
+      {
+        "name": "Vhagar",
+        "image": "URL_to_Vhagar_image",
+        "riders": ["Visenya Targaryen", "Baelon Targaryen", "Laena Velaryon", "Aemond Targaryen"],
+        "description": "Vhagar was one of the original three dragons used by Aegon the Conqueror and was the second largest after Balerion. Vhagar lived to be nearly two centuries old and played a key role in the Dance of the Dragons."
+      },
+      {
+        "name": "Meraxes",
+        "image": "URL_to_Meraxes_image",
+        "riders": ["Rhaenys Targaryen"],
+        "description": "Meraxes was ridden by Rhaenys Targaryen during Aegon's Conquest. She was a large, silver-scaled dragon, nearly as large as Vhagar, and was killed in Dorne when she was struck by a scorpion bolt."
+      },
+      {
+        "name": "Syrax",
+        "image": "URL_to_Syrax_image",
+        "riders": ["Rhaenyra Targaryen"],
+        "description": "Syrax was a large, yellow dragon ridden by Rhaenyra Targaryen. Named after a Valyrian goddess, Syrax was kept chained and well-fed, making her less experienced in battle. She died during the storming of the Dragonpit in King’s Landing."
+      },
+      {
+        "name": "Caraxes",
+        "image": "URL_to_Caraxes_image",
+        "riders": ["Daemon Targaryen", "Aemon Targaryen"],
+        "description": "Known as the Blood Wyrm, Caraxes was a fierce and battle-hardened dragon. Ridden by Daemon Targaryen during the Dance of the Dragons, Caraxes was known for his aggression and met his end during a climactic battle with Vhagar."
+      },
+      {
+        "name": "Meleys",
+        "image": "URL_to_Meleys_image",
+        "riders": ["Rhaenys Targaryen"],
+        "description": "Called the Red Queen, Meleys was a swift and powerful dragon with scarlet scales. Ridden by Princess Rhaenys Targaryen, Meleys was known for her speed and ferocity in battle. She died during the Battle of Rook's Rest."
+      },
+      {
+        "name": "Vermithor",
+        "image": "URL_to_Vermithor_image",
+        "riders": ["Jaehaerys I Targaryen", "Hugh Hammer"],
+        "description": "Vermithor, known as the Bronze Fury, was one of the largest dragons during the Dance of the Dragons. Originally ridden by King Jaehaerys I, Vermithor was later claimed by the dragonseed Hugh Hammer and was killed during the Second Battle of Tumbleton."
+      },
+      {
+        "name": "Silverwing",
+        "image": "URL_to_Silverwing_image",
+        "riders": ["Alysanne Targaryen", "Ulf White"],
+        "description": "Silverwing was a silver-scaled dragon, known for her gentle nature. She was originally ridden by Queen Alysanne Targaryen and later claimed by the dragonseed Ulf White during the Dance of the Dragons. Silverwing survived the war and lived unclaimed afterward."
+      },
+      {
+        "name": "Sunfyre",
+        "image": "URL_to_Sunfyre_image",
+        "riders": ["Aegon II Targaryen"],
+        "description": "Sunfyre, known as Sunfyre the Golden, was a beautiful dragon with gleaming golden scales. Ridden by Aegon II, Sunfyre was involved in several key battles during the Dance of the Dragons but was severely injured and eventually died from his wounds."
+      },
+      {
+        "name": "Dreamfyre",
+        "image": "URL_to_Dreamfyre_image",
+        "riders": ["Rhaena Targaryen", "Helaena Targaryen"],
+        "description": "Dreamfyre was a pale blue dragon ridden by Rhaena Targaryen and later by Queen Helaena Targaryen. Dreamfyre was known for her grace and beauty and was eventually killed during the storming of the Dragonpit in King’s Landing."
+      },
+      {
+        "name": "Arrax",
+        "image": "URL_to_Arrax_image",
+        "riders": ["Lucerys Velaryon"],
+        "description": "Arrax was a young, nimble dragon ridden by Prince Lucerys Velaryon. Although smaller and faster, Arrax was killed by Vhagar and Aemond Targaryen during the Storm's End incident, marking a significant escalation in the Dance of the Dragons."
+      },
+      {
+        "name": "Seasmoke",
+        "image": "URL_to_Seasmoke_image",
+        "riders": ["Laenor Velaryon", "Addam Velaryon"],
+        "description": "Seasmoke was a pale silver-gray dragon, smaller but swift and agile. He was initially ridden by Laenor Velaryon and later by Addam Velaryon. Seasmoke fought in several battles during the Dance of the Dragons and was killed during the Second Battle of Tumbleton."
+      },
+      {
+        "name": "Tessarion",
+        "image": "URL_to_Tessarion_image",
+        "riders": ["Daeron Targaryen"],
+        "description": "Tessarion, known as the Blue Queen, was a cobalt-blue dragon ridden by Prince Daeron Targaryen. Tessarion was one of the most beautiful dragons and was a skilled fighter. She died toward the end of the Dance of the Dragons."
+      },
+      {
+        "name": "Moondancer",
+        "image": "URL_to_Moondancer_image",
+        "riders": ["Baela Targaryen"],
+        "description": "Moondancer was a young, slender dragon with pale green scales. Ridden by Baela Targaryen, Moondancer was quick and agile but lacked the size and experience of older dragons. She was killed in a fierce battle with Sunfyre during the Dance of the Dragons."
+      },
+      {
+        "name": "Vermax",
+        "image": "URL_to_Vermax_image",
+        "riders": ["Jacaerys Velaryon"],
+        "description": "Vermax was a dragon ridden by Jacaerys Velaryon. Although less mentioned in battles, Vermax played a role in the war before meeting an untimely death during the Dance of the Dragons."
+      },
+      {
+        "name": "Stormcloud",
+        "image": "URL_to_Stormcloud_image",
+        "riders": ["Aegon III Targaryen"],
+        "description": "Stormcloud was a young dragon ridden by Aegon III Targaryen during his escape from Dragonstone. Despite his youth, Stormcloud bravely carried Aegon to safety but was gravely injured during the flight and later died from his wounds."
+      },
+      {
+        "name": "Morrghul",
+        "image": "URL_to_Morrghul_image",
+        "riders": ["None (hatched for Princess Jaehaera Targaryen)"],
+        "description": "Morrghul was a young dragon hatched for Princess Jaehaera Targaryen. Although never ridden in battle, Morrghul was killed during the storming of the Dragonpit by a mob in King’s Landing."
+      },
+      {
+        "name": "Shrykos",
+        "image": "URL_to_Shrykos_image",
+        "riders": ["None (hatched for Prince Joffrey Velaryon)"],
+        "description": "Shrykos was a young dragon hatched for Prince Joffrey Velaryon. Shrykos was too young to participate in battles and was killed during the storming of the Dragonpit by a mob in King’s Landing."
+      },
+      {
+        "name": "Morghul",
+        "image": "URL_to_Morghul_image",
+        "riders": ["None (hatched for Princess Jaehaera Targaryen)"],
+        "description": "Morghul was another young dragon hatched for Princess Jaehaera Targaryen, similar to Morrghul. Like her twin, Morghul was killed during the storming of the Dragonpit."
+      },
+      {
+        "name": "The Cannibal",
+        "image": "URL_to_The_Cannibal_image",
+        "riders": ["None"],
+        "description": "The Cannibal was a wild dragon living on Dragonstone. Known for his viciousness and preference for eating other dragons, The Cannibal was never tamed or ridden. He was one of the most feared wild dragons and survived the Dance of the Dragons."
+      },
+      {
+        "name": "Grey Ghost",
+        "image": "URL_to_Grey_Ghost_image",
+        "riders": ["None"],
+        "description": "Grey Ghost was another wild dragon living near Dragonstone. Known for his elusive nature, Grey Ghost was shy and avoided human contact. He was killed by Sunfyre during the Dance of the Dragons."
+      },
+      {
+        "name": "Sheepstealer",
+        "image": "URL_to_Sheepstealer_image",
+        "riders": ["Nettles"],
+        "description": "Sheepstealer was a wild dragon that earned his name by preying on sheep. He was later tamed by Nettles, a young girl who fed him sheep every day. Sheepstealer and Nettles disappeared into the wilds during the Dance of the Dragons and were never seen again."
+      },
+      {
+        "name": "Quicksilver",
+        "image": "URL_to_Quicksilver_image",
+        "riders": ["Aenys I Targaryen", "Aegon Targaryen (son of Aenys I)"],
+        "description": "Quicksilver was a dragon known for her pale, quicksilver-colored scales. She was ridden by Aenys I Targaryen and later by his son Aegon. Quicksilver was killed by Balerion during the Targaryen civil war known as the Faith Militant uprising."
+      },
+      {
+        "name": "Tyraxes",
+        "image": "URL_to_Tyraxes_image",
+        "riders": ["None"],
+        "description": "Tyraxes was a dragon who was hatched during the reign of King Viserys I Targaryen. Although not ridden into battle, Tyraxes was present during the Dance of the Dragons and died during the storming of the Dragonpit."
+      },
+      {
+        "name": "Shrykos",
+        "image": "URL_to_Shrykos_image",
+        "riders": ["None (hatched for Prince Joffrey Velaryon)"],
+        "description": "Shrykos was a dragon hatched for Prince Joffrey Velaryon. Shrykos was too young to be ridden in battle and was killed during the storming of the Dragonpit by a mob in King’s Landing."
+      },
+      {
+        "name": "Morghul",
+        "image": "URL_to_Morghul_image",
+        "riders": ["None (hatched for Princess Jaehaera Targaryen)"],
+        "description": "Morghul was another young dragon hatched for Princess Jaehaera Targaryen. Like her twin, Morghul was killed during the storming of the Dragonpit."
+      },
+      {
+        "name": "Terrax",
+        "image": "URL_to_Terrax_image",
+        "riders": ["Rhaena Targaryen"],
+        "description": "Terrax was a dragon that was ridden by Rhaena Targaryen, one of the daughters of Prince Daemon Targaryen. Terrax was a fearsome dragon, though not as famous as some others, and played a role in the Targaryen dynasty's history."
+      }
+    ]
+  }
+  
