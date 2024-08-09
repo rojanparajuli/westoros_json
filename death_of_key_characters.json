@@ -1,0 +1,108 @@
+{
+    "Dance_of_the_Dragons": {
+      "Key_Characters_Deaths": [
+        {
+          "name": "King Viserys I Targaryen",
+          "cause_of_death": "Natural causes",
+          "significance": "His death triggered the civil war between Rhaenyra and Aegon II."
+        },
+        {
+          "name": "Ser Harwin Strong",
+          "cause_of_death": "Killed in a fire at Harrenhal",
+          "significance": "Rumored lover of Rhaenyra and father of her sons, his death affected Rhaenyra deeply."
+        },
+        {
+          "name": "Prince Lucerys Velaryon",
+          "cause_of_death": "Killed by Aemond Targaryen during a dragon battle",
+          "significance": "His death escalated the conflict, marking an open declaration of war."
+        },
+        {
+          "name": "Prince Jacaerys Velaryon",
+          "cause_of_death": "Killed during the Battle of the Gullet",
+          "significance": "A significant loss for Rhaenyra's faction as he played a crucial role in gathering support."
+        },
+        {
+          "name": "Lord Corlys Velaryon",
+          "cause_of_death": "Natural causes after imprisonment",
+          "significance": "A key supporter of Rhaenyra, his death weakened her faction."
+        },
+        {
+          "name": "Daemon Targaryen",
+          "cause_of_death": "Killed in a duel with Aemond Targaryen at the Battle Above the Gods Eye",
+          "significance": "His death, along with Aemond's, marked a climactic moment in the war."
+        },
+        {
+          "name": "Queen Rhaenyra Targaryen",
+          "cause_of_death": "Executed by Aegon II’s dragon, Sunfyre",
+          "significance": "Her death marked the downfall of the blacks and ended her claim to the throne."
+        },
+        {
+          "name": "King Aegon II Targaryen",
+          "cause_of_death": "Poisoned by his own supporters",
+          "significance": "His death ended the war, leading to the ascension of Aegon III."
+        },
+        {
+          "name": "Ser Criston Cole",
+          "cause_of_death": "Killed in battle (ambush during the Battle of the Kingsroad)",
+          "significance": "His death marked the loss of one of the greens' most capable commanders."
+        }
+      ],
+      "Dragons_Deaths": [
+        {
+          "name": "Arrax",
+          "rider": "Lucerys Velaryon",
+          "cause_of_death": "Killed by Vhagar and Aemond Targaryen during the Storm's End incident",
+          "significance": "First major dragon casualty of the war, escalating the conflict."
+        },
+        {
+          "name": "Vermithor",
+          "rider": "Hugh Hammer",
+          "cause_of_death": "Killed during the Second Battle of Tumbleton",
+          "significance": "One of the oldest and largest dragons, his death was a significant blow to Rhaenyra’s forces."
+        },
+        {
+          "name": "Sunfyre",
+          "rider": "Aegon II Targaryen",
+          "cause_of_death": "Mortally wounded in battle, died later from injuries",
+          "significance": "His death symbolized the end of Aegon II's reign."
+        },
+        {
+          "name": "Vhagar",
+          "rider": "Aemond Targaryen",
+          "cause_of_death": "Killed by Caraxes and Daemon Targaryen in the Battle Above the Gods Eye",
+          "significance": "One of the largest and most feared dragons, her death was a climactic moment."
+        },
+        {
+          "name": "Caraxes",
+          "rider": "Daemon Targaryen",
+          "cause_of_death": "Killed during the Battle Above the Gods Eye in a duel with Vhagar",
+          "significance": "His death, along with Vhagar’s, marked the end of two of the most powerful dragons."
+        },
+        {
+          "name": "Meleys",
+          "rider": "Princess Rhaenys Targaryen",
+          "cause_of_death": "Killed by Sunfyre and Vhagar during the Battle of Rook's Rest",
+          "significance": "Her death was a significant loss for the blacks, as Rhaenys was a capable leader."
+        },
+        {
+          "name": "Seasmoke",
+          "rider": "Addam Velaryon",
+          "cause_of_death": "Killed during the Second Battle of Tumbleton",
+          "significance": "Seasmoke's death highlighted the internal divisions in Rhaenyra's faction."
+        },
+        {
+          "name": "Moondancer",
+          "rider": "Baela Targaryen",
+          "cause_of_death": "Killed in a battle against Sunfyre",
+          "significance": "A fierce battle, but Moondancer was ultimately slain, marking the end of one of the younger dragons."
+        },
+        {
+          "name": "Tessarion",
+          "rider": "Prince Daeron Targaryen",
+          "cause_of_death": "Killed by forces loyal to Rhaenyra",
+          "significance": "Her death marked the dwindling of the Targaryen dragons towards the war's end."
+        }
+      ]
+    }
+  }
+  

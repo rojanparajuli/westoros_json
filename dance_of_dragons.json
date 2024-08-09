@@ -1,0 +1,80 @@
+{
+    "event": "Dance of the Dragons",
+    "universe": "A Song of Ice and Fire",
+    "author": "George R.R. Martin",
+    "sources": [
+      {
+        "title": "Fire & Blood",
+        "author": "George R.R. Martin"
+      }
+    ],
+    "origins_and_causes": {
+      "reign_of_King_Viserys_I": {
+        "description": "Viserys I Targaryen's reign was marked by his indecisiveness, particularly in securing a clear line of succession.",
+        "heir_designation": "Rhaenyra Targaryen was named heir by Viserys I.",
+        "conflict": "The birth of Aegon to Viserys and Queen Alicent Hightower created a rival claim to the throne."
+      },
+      "factions": {
+        "blacks": {
+          "leader": "Rhaenyra Targaryen",
+          "supporters": "House Velaryon and other loyalists"
+        },
+        "greens": {
+          "leader": "Aegon II Targaryen",
+          "supporters": "Queen Alicent Hightower and many powerful lords"
+        }
+      }
+    },
+    "rival_claimants": {
+      "rhaenyra_targaryen": {
+        "parentage": "Daughter of Viserys I and Aemma Arryn",
+        "qualities": "Strong-willed, capable, groomed to rule",
+        "allies": "House Velaryon"
+      },
+      "aegon_II_targaryen": {
+        "parentage": "Son of Viserys I and Alicent Hightower",
+        "claim": "Based on traditional preference for male heirs",
+        "supporters": "Queen Alicent Hightower and many lords"
+      }
+    },
+    "outbreak_of_war": {
+      "viserys_I_death": "Aegon II was crowned before Rhaenyra knew of her father's death.",
+      "rhaenyra_reaction": "Declared herself queen and rallied supporters from Dragonstone.",
+      "division": "The realm split between supporters of Rhaenyra and Aegon II.",
+      "war_of_dragons": "The conflict involved dragonriders on both sides, leading to unprecedented destruction."
+    },
+    "key_battles_and_events": [
+      {
+        "name": "Storming of Dragonpit",
+        "description": "A mob in King's Landing stormed the Dragonpit, resulting in the deaths of several dragons and riders."
+      },
+      {
+        "name": "Battle of Rook’s Rest",
+        "description": "An early major confrontation where Rhaenyra's forces clashed with Aegon's, leading to heavy losses on both sides."
+      },
+      {
+        "name": "Fall of Harrenhal",
+        "description": "Daemon Targaryen captured Harrenhal, making it a key stronghold for Rhaenyra."
+      },
+      {
+        "name": "Second Battle of Tumbleton",
+        "description": "Rhaenyra's forces were betrayed by two dragonriders, leading to a significant defeat."
+      },
+      {
+        "name": "Death of Aegon II and End of the War",
+        "description": "Rhaenyra briefly ruled after taking King's Landing but was captured and executed. Aegon II died shortly after, leading to the end of the war."
+      }
+    ],
+    "consequences": {
+      "dragons": "Most dragons were killed, leading to their near extinction.",
+      "house_targaryen": "The family was greatly weakened, with many members dead or discredited.",
+      "realm_instability": "The realm was left deeply divided, setting the stage for future conflicts.",
+      "regency_of_aegon_III": "Aegon III, known as 'Aegon the Unlucky,' ascended the throne and ruled during a period of mourning and rebuilding."
+    },
+    "legacy": {
+      "destruction": "The Dance of the Dragons is remembered as one of the most catastrophic events in Westeros.",
+      "symbolism": "It serves as a symbol of the destructive potential of internal conflict and the costs of war.",
+      "historical_significance": "The war's legacy influenced the actions and policies of future rulers and became a point of fascination for maesters and historians."
+    }
+  }
+  
